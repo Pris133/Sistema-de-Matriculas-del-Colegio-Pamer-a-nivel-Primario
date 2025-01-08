@@ -1,0 +1,2 @@
+# Sistema-de-Matriculas-del-Colegio-Pamer-a-nivel-Primario
+El programa presenta el diseño MVC, utilizando estructuras de ordenamiento, almacenamiento y listas. El sistema de matrículas ayuda a que el usuario realice el registro de los alumnos, apoderados, profesores, salones, horarios. Así como también la modificación de los registros, y la realización de matrícula del alumno generando un horario. 
